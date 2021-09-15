@@ -1,4 +1,4 @@
-package method;
+package com.xworkz.method;
 
 import java.util.Date;
 
